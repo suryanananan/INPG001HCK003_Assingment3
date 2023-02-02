@@ -1,0 +1,97 @@
+#contain1{
+    background-color: aliceblue;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    border-radius: 20px;
+}
+
+#data{
+    background-color: aquamarine;
+    border-radius: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    align-content: center;
+}
+
+#card1{
+    background-color: blueviolet;
+    border-radius: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 200px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+#card2{
+    background-color: rgb(59, 150, 55);
+    border-radius: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 200px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+
+#card3{
+    background-color: rgb(226, 116, 43);
+    border-radius: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 200px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+#card4{
+    background-color: rgb(226, 64, 43);
+    border-radius: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 200px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+#card5{
+    background-color: rgb(208, 226, 43);
+    border-radius: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 200px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+#card6{
+    background-color: rgb(43, 159, 226);
+    border-radius: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 200px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
